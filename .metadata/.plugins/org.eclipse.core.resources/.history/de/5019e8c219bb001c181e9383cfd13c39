@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import br.com.luiz.consumer.entitie.Product;
+import br.com.luiz.consumer.util.PriceUpdate;
 
 public class Main {
 
@@ -21,7 +22,7 @@ public class Main {
 		
 		list.forEach(System.out::println);
 		
-//		consumer_lambda_staticPriceUpdate
+
 	}
 
 }

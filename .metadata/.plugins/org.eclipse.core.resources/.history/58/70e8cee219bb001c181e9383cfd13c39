@@ -21,7 +21,7 @@ public class Main {
 		
 		list.forEach(System.out::println);
 		
-//		consumer_lambda_staticPriceUpdate
+
 	}
 
 }
