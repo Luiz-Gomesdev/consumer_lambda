@@ -1,0 +1,16 @@
+package br.com.luiz.consumer.application;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import br.com.luiz.consumer.entitie.Product;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		List<Product> list = new ArrayList<>();
+
+	}
+
+}
